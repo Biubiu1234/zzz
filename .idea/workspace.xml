@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7caf98d-93fc-41f0-9a50-9c7f163bcdd7" name="Default" comment="郑海洲第二次push（branch分支）">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BigBaby/.idea/vcs.xml" />
+    <list default="true" id="e7caf98d-93fc-41f0-9a50-9c7f163bcdd7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../BigBaby/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../BigBaby/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../BigBaby/out/" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../BigBaby/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="243">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -246,7 +245,7 @@
       <option name="presentableId" value="Default" />
       <updated>1537016251289</updated>
       <workItem from="1537016252756" duration="5714000" />
-      <workItem from="1537066591001" duration="107000" />
+      <workItem from="1537066591001" duration="288000" />
     </task>
     <task id="LOCAL-00001" summary="郑海洲第一次push">
       <created>1537016899137</created>
@@ -269,11 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537017872515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="郑海洲第二次push（branch分支）">
+      <created>1537066719110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537066719110</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5821000" />
+    <option name="totallyTimeSpent" value="6002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -378,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../BigBaby/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="243">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding />
         </state>
       </provider>
